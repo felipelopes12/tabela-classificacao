@@ -11,5 +11,6 @@ Tabela de classificaçao para jogos ou competiçoes.🖱️
 - Somando pontuaçao vitorias(3pts), empates(1pts), derrotas(0pts).
 
 <br>
+
 ## 🔗 Criada em CodePen.io.<br>
  URL original: https://codepen.io/felipelopes12/pen/rNjWrJG .

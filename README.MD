@@ -14,3 +14,5 @@ Tabela de classificaçao para jogos ou competiçoes.🖱️
 
 ## 🔗 Criado em CodePen<br>
  URL original: https://codepen.io/felipelopes12/pen/rNjWrJG .
+
+Copyright (c) 2021 by Amadeu Filipe Lopes (https://codepen.io/felipelopes12/pen/rNjWrJG)

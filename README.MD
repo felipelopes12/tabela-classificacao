@@ -12,5 +12,5 @@ Tabela de classificaçao para jogos ou competiçoes.🖱️
 
 <br>
 
-## 🔗 Criada em CodePen.io.<br>
+## 🔗 Criada em CodePen<br>
  URL original: https://codepen.io/felipelopes12/pen/rNjWrJG .

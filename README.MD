@@ -2,7 +2,7 @@
 ## 💻 Projeto
 Tabela de classificaçao para jogos ou competiçoes.
 <p align="center">
-<img width="100%" src="img/inicio.PNG">
+<img width="100%" src="img/Inicio.PNG">
 </p>
 
 ## 💡 Funcionalidades

@@ -1,9 +1,9 @@
 
 <h3 align="center">
-  📈 Tabela de claaificacao 📈
+  📈 Tabela de Classificação 📈
 </h3>
 
-<blockquote align="center">“Tabela de classificaçao para jogos ou competiçoes🖱️”</blockquote>
+<blockquote align="center">“Tabela de classificação para jogos ou competições🖱️”</blockquote>
 
 <p align="center">
 <img width="100%" src="img/Inicio.PNG">
@@ -14,7 +14,6 @@
 - Marcar vitorias, empates e derrotas.
 - Somando pontuaçao vitorias(3pts), empates(1pts), derrotas(0pts).
 
-<br>
 
 ## :rocket: Tecnologias:
 
